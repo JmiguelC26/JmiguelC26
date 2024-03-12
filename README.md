@@ -10,11 +10,5 @@
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
 
-**Table of Contents**
+**Más sobre mí**
 
-[TOCM]
-
-[TOC]
-
-#H1 header
-##H2 header
