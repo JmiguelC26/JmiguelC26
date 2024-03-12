@@ -7,7 +7,7 @@
 
 
 # Tranquilidad
-(https://img.shields.io/github/stars/pandao/editor.md.svg)
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
 
 **Table of Contents**
